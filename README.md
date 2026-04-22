@@ -1,4 +1,4 @@
-Acadine Network - thought experiments on designing accessible, peer-to-peer AI and startup ecosystems
+# Acadine Network - thought experiments on designing accessible, peer-to-peer AI and startup ecosystems
 _____
 >"Everything that can be thought at all can be thought clearly. Everything that can be said can be said clearly."
 >Ludwig Wittgenstein
