@@ -106,6 +106,7 @@ In no particular order:
 | Niklas Luhmann        | Zettelkasten, non-linear approach to information management                 | hyperlinked knowledge-management;<br>combining: public, complex, relational knowledge management, and;<br>personal + agent knowledge management                                                                                        |
 | Carl Jung             | Jungian Archetypes                                                          | because why not; but also, perhaps a Acadine Network, at scale, would be a way for individuals to have a conversation with the collective conscious or unconscious. Fool/Jester archetype as foundational to some parts of the network |
 | Paul Cilliers         | Complex Systems, Engineering, Philosophy                                    | Philosophical approach to complex systems; non-linear dynamics especially as it relates to how creativity, recreation, art and "non-productive work" can spark inspiration that leads to non-linear problem-solving in complex systems |
+
 Some more attributions will be added as time goes on. I figured that some persons would prefer to be contacted first, before I add them to this general list.
 
 _____
