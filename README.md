@@ -369,4 +369,3 @@ _____
 [2] CS183, Peter Thiel, class notes by Blake Masters (2012), archive: https://archive.is/vywjG
 
 [3] Paul Cilliers, who authored and co-authored numerous publications in the field of philosophy and complexity science
-# acadine-network-vault
