@@ -353,7 +353,7 @@ Acadine Genesis Network represents a virtuous kind of foolishness. If it remains
 
 #### More to follow
 
-- For now, this felt sufficient for me to release as an article out. More to follow. 
+- For now, this felt sufficient for me to release as an article. More to follow. 
 
 
 
