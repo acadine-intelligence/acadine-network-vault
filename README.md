@@ -305,7 +305,7 @@ Acadine Genesis Network, my version, is my starting point. Everyone will have th
 ___
 #### Foundational Principles
 
-It's a joy to start something fresh and now. One has the ability to branch off into many possibilities. This same freedom may also create an anxiety. Where to even begin, and what direction to go, especially if the stakes may be high? I decided upon some foundational guiding principles, that may help when thinking about a technical implementation:
+It's a joy to start something fresh and now. One has the ability to branch off into many possibilities. This same freedom may also create an anxiety. Where to even begin, and what direction to go? While I originally thought this is a "high stakes" project, I think it's better to start with small, low-stakes environments (experiments), and see if something interesting emerges from that. But I still decided upon some foundational guiding principles, that may help when thinking about setting up interesting experimental networks:
 
 - Archetype of the Fool
 - Virtue Ethics
