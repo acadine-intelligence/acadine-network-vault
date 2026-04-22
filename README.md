@@ -143,8 +143,7 @@ _____
 
 #### Preamble: questions as a conversation-starters around "AI"
 
-"If you happen to be in a room that had the 100 smartest people in the world and you were the smartest person in that room, you're still not as smart as the other 99 working together."
-- *Alan Kay* [0]
+"If you happen to be in a room that had the 100 smartest people in the world and you were the smartest person in that room, you're still not as smart as the other 99 working together." - *Alan Kay* [0]
 
 **What made me want to put these ideas together?**
 - I saw the trend of personalized AI agent tools taking off, and had a sense in which there could be various incentives across industries to try turn personal computing, mobile devices or cloud services into powerful, semi-autonomous intelligences.
